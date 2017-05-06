@@ -1,5 +1,5 @@
 {
-  "name": "botbuilder",
+  "name": "botbuildertest",
   "version": "1.0.0",
   "description": "botbuilderframework",
   "main": "index.js",
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/devonhalley/ivoryWizard#readme",
   "dependencies": {
     "restify": "^4.3.0"
-  }
+  },
+  "devDependencies": {}
 }
